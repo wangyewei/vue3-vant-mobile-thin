@@ -68,5 +68,11 @@
     "default": true,
     "MD033": false,
     "MD041": false
-  }
+  },
+  "cSpell.words": [
+    "nprogress",
+    "unhead",
+    "vant",
+    "vconsole"
+  ]
 }

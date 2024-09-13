@@ -15,6 +15,7 @@ const title = computed(() => {
   if (!route.meta)
     return ''
 
+  console.log(route)
   return route.meta.i18n ? t(route.meta.i18n) : (route.meta.title || '')
 })
 

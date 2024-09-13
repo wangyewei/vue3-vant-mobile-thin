@@ -6,7 +6,7 @@ definePage({
   name: 'counter',
   meta: {
     level: 2,
-    title: '🍍 持久化 Pinia 状态',
+    title: '🍍 持久化 Pinia 状态11111111',
     i18n: 'menus.persistPiniaState',
   },
 })
